@@ -1,0 +1,11 @@
+{
+  "name": "pals",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "pals": "./src/index.js"
+  },
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
