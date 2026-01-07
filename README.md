@@ -29,8 +29,13 @@ Commands:
 default save directory is `$HOME/.ps-aliases`
 
 ## Installation
-pals is not yet published npm package. You can install it from source by cloning the repository and running `npm install` in the root directory.
+### from npm
 
+```bash
+npm install -g @nk4dev/pals
+```
+
+### fron github
 ```bash
 git clone https://github.com/yourusername/pals.git
 cd pals
